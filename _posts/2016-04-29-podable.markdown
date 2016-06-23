@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Project 2 - Podable"
+date:   2016-04-29 14:34:25
+categories: mediator feature
+tags: featured
+image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
+---
+<a href="https://github.com/Wardrt/WDI-project-2">https://github.com/Wardrt/WDI-project-2</a>
+My second project was an online database of podcasts, where users can discover new podcasts and interact with other users. Check it out at : <a href="https://podable.herokuapp.com/">https://podable.herokuapp.com/</a>
+I used Ruby on Rails, Sinatra, devise, OAuth, acts_as_commentable, carrierwave, HTML, jQuery, SCSS, foundation framework.
